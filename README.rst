@@ -1,40 +1,25 @@
-AlertOps Expert Guidance
+AlertOps and Jira Integration Empowers Agile Development Teams With Better Communication
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Jira is a software development tool that enables agile development teams to visualize and streamline their development pipeline and ship more software. Jira helps teams communicate and collaborate. But Jira is focused on helping teams create software faster. It’s not designed as a comprehensive communication tool.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+AlertOps helps you get more from Jira by automatically pushing information about issues in Jira to the right team members and stakeholders and automating communication between software development teams and team members. This gives agile development teams more connectivity and helps shorten development cycles.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Here’s what AlertOps and Jira can do with two-way integration:
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+    Automatically create an AlertOps alert when a Jira issue is created.
+    Automatically update the alert owner in AlertOps when the issue owner is updated in Jira.
+    Automatically close an alert in AlertOps if the issue is closed in Jira.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Using the AlertOps Generic REST API and the Outbound API, two-way integration also means that creating an AlertOps alert, updating the AlertOps alert owner, or closing an alert in AlertOps also changes the state of the corresponding issue in Jira.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+All this gets repetitive tasks off of developers’ plates and eliminates redundant work, so your teams can focus on shipping software.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+To learn more about what’s possible with two-way AlertOps and Jira integration or get help configuring your AlertOps and Jira integration, check out our help center.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-and-jira-integration/
 
 Read more:
 ====
